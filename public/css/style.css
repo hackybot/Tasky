@@ -1,0 +1,21 @@
+.ToDo-Title {
+  display: inline-block;
+}
+
+.completed-form {
+  float: right;
+  display: inline-block;
+}
+
+.ToDo-item {
+  background-color: #fff176;
+}
+
+.completed-item {
+  background-color: #22A7F0;
+}
+
+.edit-link {
+  position: relative;
+  top: -10px;
+}
